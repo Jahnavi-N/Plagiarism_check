@@ -1,4 +1,4 @@
-# Hackerank Contest Plagiarism Checker 
+### Plagiarism Checker 
 
 ### Based on Python Selenium WebScrapping + SQL
  
